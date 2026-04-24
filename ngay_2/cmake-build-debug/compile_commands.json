@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ASUS/CLionProjects/ngay_2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\ngay_2.dir\\main.c.obj -c C:\\Users\\ASUS\\CLionProjects\\ngay_2\\main.c",
+  "file": "C:/Users/ASUS/CLionProjects/ngay_2/main.c",
+  "output": "C:/Users/ASUS/CLionProjects/ngay_2/cmake-build-debug/CMakeFiles/ngay_2.dir/main.c.obj"
+}
+]
